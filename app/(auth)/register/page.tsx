@@ -1,7 +1,8 @@
+import { RegisterForm } from "@/src/components/RegisterForm";
 
-export default function Regi () {
+export default function Regi() {
     return (
-        <h1>re</h1>
+        <RegisterForm />
     )
 
 };
