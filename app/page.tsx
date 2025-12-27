@@ -1,7 +1,7 @@
-import Image from "next/image";
+import ChatComponent from "@/src/components/chat/chatComponent";
 
-export default function Home() {
+export default function Chat() {
   return (
-    <div><h1>j</h1></div>
+    <ChatComponent />
   );
 }
